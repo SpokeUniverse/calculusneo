@@ -1,5 +1,6 @@
 <img src="https://i.ibb.co/nBD86yK/Calculus-Neo-1.png"></img>
 # Calculus Neo
+> This project is old and should not be used, and reviewed :D
 Calculus Neo is a small program which can be used for solving simple mathematical expressions. Calculus Neo supports following types of operations:
 <ul>
 <li>Addition, subtraction, multiplication and division numbers</li>
